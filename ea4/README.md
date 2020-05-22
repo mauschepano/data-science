@@ -5,7 +5,7 @@
 
 ### Result
 
-```bash
+```zsh
 sudo python3 get-pip.py
 pip3 install --upgrade pip
 python get-pip.py pip==20.0.2
@@ -14,6 +14,9 @@ jupyter notebook
 ```
 
 2. Read the first 25 Exercises from 101 NumPy Exercises. (Prove is the string you send to me: Write "I read the first X (X>=25) exersises" ;-)
+
+```I read the first X (X>=25) exersises```
+
 3. Do the following exercise in a Jupyter Notebook (a GitHub Link would be the best):
     * Load the countries.csv directly via URL import into your panda data frame!
     * Display some basic information as rows, columns and some basic statistical info.
