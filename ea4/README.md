@@ -15,7 +15,7 @@ jupyter notebook
 
 2. Read the first 25 Exercises from 101 NumPy Exercises. (Prove is the string you send to me: Write "I read the first X (X>=25) exersises" ;-)
 
-```I read the first X (X>=25) exersises```
+```I read the first X (X>=25) exercises```
 
 3. Do the following exercise in a Jupyter Notebook (a GitHub Link would be the best):
     * Load the countries.csv directly via URL import into your panda data frame!
