@@ -17,7 +17,7 @@ Create a 2x4 two dimensional matrix with random floats in it and in the next ste
 2. Now compare matrix multiplication either this way A * B and this way A .* B. Whats the difference?!
    > For every binary operation like \*, there is a corresponding "dot" operation .\* that is automatically defined to perform \* element-by-element on arrays
 
-3. What about matrix division with "/" or "\"?!
+3. What about matrix division with "/" or "\\"?!
 
     > x / y : performs division 
 
