@@ -16,7 +16,11 @@ Create a 2x4 two dimensional matrix with random floats in it and in the next ste
 
 2. Now compare matrix multiplication either this way A * B and this way A .* B. Whats the difference?!
 
-3. What about matrix division with "/" or "\"?!
+3. What about matrix division with "/" or "\\"?!
+
+    > x / y : performs division
+
+    > x \	y : is an inverse division and the equivalent to y / x
 
 4. Create a 3x3 integer matrix A with useful numbers. Now try A+1, A-1, A*2, A/2.
 
