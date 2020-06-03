@@ -19,11 +19,7 @@ Create a 2x4 two dimensional matrix with random floats in it and in the next ste
 
 3. What about matrix division with "/" or "\\"?!
 
-<<<<<<< HEAD
     > x / y : performs division
-=======
-    > x / y : performs division 
->>>>>>> 9bb6abe71e9c06dbcb51c5bd728e1c57e5fb450c
 
     > x \	y : is an inverse division and the equivalent to y / x
 
