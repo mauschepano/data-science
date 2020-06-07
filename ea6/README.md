@@ -11,7 +11,7 @@ This course has 5 days & topics:
 [Day 1: Handling missing values](https://www.kaggle.com/carolineschneider/day1-handlingmissingvalues)
 [Day 2: Scaling and normalization](https://www.kaggle.com/carolineschneider/day2-scalingandnormalization)
 [Day 3: Parsing dates](https://www.kaggle.com/carolineschneider/day3-parsingdates)
-[Day 4: Character encodings]((https://www.kaggle.com/carolineschneider/day4-characterencodings)
+[Day 4: Character encodings](https://www.kaggle.com/carolineschneider/day4-characterencodings)
 [Day 5: Inconsistent Data Entry](https://www.kaggle.com/carolineschneider/day5-inconsistentdataentry)
 
 Fork this course, solve all "your turn!"s and earn 5 points for each part!
