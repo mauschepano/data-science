@@ -8,7 +8,7 @@ Create a recipie to clean the data as good as you can (it must not be a general 
 
 ## 1. Upload CSV
 
-![Initial CSV](./assets/1_initialCSV.png)
+![Initial CSV](./assets/1_inititalCSV.png)
 
 ## 1.  Creating a recipe to clean the data
 
