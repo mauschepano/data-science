@@ -18,4 +18,4 @@ Create a recipie to clean the data as good as you can (it must not be a general 
 
 ![Done](./assets/3_done.png)
 
-[Download new CSV](./assets/cleaned.csv)
+[See new CSV](./assets/cleaned.csv)
