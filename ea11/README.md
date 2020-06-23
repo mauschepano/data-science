@@ -38,24 +38,38 @@ Again best you upload a PDF or the ref to Github or a Jupyter Notebook where eve
 | r20 | 31-40 | High   | No      | Excellent    | Yes           |
 
 #### Formula
+Information entropy
+Also called Shannon entropy (after the father of intromation theory)
 
-1. E(D) = -(p<sub>true</sub>)*log<sub>2</sub>*p<sub>true</sub> - p<sub>false</sub>*log<sub>2</sub>*p<sub>false</sub>
+Usually information entropy is denoted as $H$
+
+$H$ is defined as the weighted average of the self-information of all possible outcomes
+
+
+$H(X) = \sum\limits_{i=1}^N p_i \cdot I(p_i) = -\sum\limits_{i=1}^N p_i\cdot\log(p_i)$
+
+
+Lets consider two case scenario with $P = (p, 1 - p)$, so entropy is given by $H = -p \log(p) - (1 - p) \log(1 - p)$
+1. E(D)    = -(p<sub>t</sub>)*log<sub>2</sub>*p<sub>t</sub>%20-%20p<sub>f</sub>*log<sub>2</sub>*p<sub>f</sub>
+<img src="https://render.githubusercontent.com/render/math?math=P = (p, 1 - p)$, so entropy is given by $H = -p \log(p) - (1 - p) \log(1 - p)">
+
+2. G(D, A) =
 
 #### Result Table
 
-|               | buying | not buying | gesamt |   | E(D)      | G(D,A) |
-|---------------|--------|------------|--------|---|-----------|--------|
-| **Age**       |        |            |        |   |           |        |
-| <=30          | 2      | 6          | 8      |   | 0,811278  |        |
-| 31-40         | 6      | 0          | 6      |   | 0         |        |
-| >40           | 4      | 2          | 6      |   | 0,918295  |        |
-| **Income**    |        |            |        |   |           |        |
-| high          | 3      | 2          | 5      |   | 0,97095   |        |
-| medium        | 5      | 3          | 8      |   | 0,954434  |        |
-| low           | 4      | 3          | 7      |   | 0,985228  |        |
-| **Student**   |        |            |        |   |           |        |
-| yes           | 8      | 1          | 9      |   | 0,5032583 |        |
-| no            | 4      | 7          | 11     |   | 0,9456603 |        |
-| **Credit-r.** |        |            |        |   |           |        |
-| excellent     | 5      | 5          | 10     |   | 1         |        |
-| fair          | 7      | 3          | 10     |   | 0,8812908 |        |
+|               | buying | not buying | total  | E(D)      | G(D,A) |
+|---------------|--------|------------|--------|-----------|--------|
+| **Age**       |        |            |        |           |        |
+| <=30          | 2      | 6          | 8      | 0,811278  |        |
+| 31-40         | 6      | 0          | 6      | 0         |        |
+| >40           | 4      | 2          | 6      | 0,918295  |        |
+| **Income**    |        |            |        |           |        |
+| high          | 3      | 2          | 5      | 0,97095   |        |
+| medium        | 5      | 3          | 8      | 0,954434  |        |
+| low           | 4      | 3          | 7      | 0,985228  |        |
+| **Student**   |        |            |        |           |        |
+| yes           | 8      | 1          | 9      | 0,5032583 |        |
+| no            | 4      | 7          | 11     | 0,9456603 |        |
+| **Credit-r.** |        |            |        |           |        |
+| excellent     | 5      | 5          | 10     | 1         |        |
+| fair          | 7      | 3          | 10     | 0,8812908 |        |
