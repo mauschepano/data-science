@@ -51,7 +51,7 @@ $H(X) = \sum\limits_{i=1}^N p_i \cdot I(p_i) = -\sum\limits_{i=1}^N p_i\cdot\log
 
 Lets consider two case scenario with $P = (p, 1 - p)$, so entropy is given by $H = -p \log(p) - (1 - p) \log(1 - p)$
 1. E(D)    = -(p<sub>t</sub>)*log<sub>2</sub>*p<sub>t</sub>%20-%20p<sub>f</sub>*log<sub>2</sub>*p<sub>f</sub>
-<img src="https://render.githubusercontent.com/render/math?math=P = (p, 1 - p)$, so entropy is given by $H = -p \log(p) - (1 - p) \log(1 - p)">
+<img src="http://www.sciweavers.org/tex2img.php?eq=H%28X%29%20%3D%20%5Csum%5Climits_%7Bi%3D1%7D%5EN%20p_i%20%5Ccdot%20I%28p_i%29%20%3D%20-%5Csum%5Climits_%7Bi%3D1%7D%5EN%20p_i%5Ccdot%5Clog%28p_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="H(X) = \sum\limits_{i=1}^N p_i \cdot I(p_i) = -\sum\limits_{i=1}^N p_i\cdot\log(p_i)" width="297" height="53" />
 
 2. G(D, A) =
 
