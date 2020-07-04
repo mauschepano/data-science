@@ -1,6 +1,6 @@
 # Clustering Excercise
 
-###Exercise 1 
+### Exercise 1 
 
 Analyse this [dataset](./assets/edlich-kmeans-A0.csv) which looks like this:
 
