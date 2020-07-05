@@ -12,6 +12,6 @@
 | 8  | ML Introduction | https://github.com/mauschepano/data-science/tree/master/ea8/ | done |
 | 9  | Logistic Regression | https://github.com/mauschepano/data-science/tree/master/ea9/ | done |
 | 10 | Instance Based Algs KNN | https://github.com/mauschepano/data-science/tree/master/ea10/ | done |
-| 11 | Decision Trees | https://github.com/mauschepano/data-science/tree/master/ea11/ | |
-| 12 | Clustering | https://github.com/mauschepano/data-science/tree/master/ea12/ | |
-| 13 | Spark Basics | https://github.com/mauschepano/data-science/tree/master/ea13/ | |
+| 11 | Decision Trees | https://github.com/mauschepano/data-science/tree/master/ea11/ | done |
+| 12 | Clustering | https://github.com/mauschepano/data-science/tree/master/ea12/ | done |
+| 13 | Spark Basics | https://github.com/mauschepano/data-science/tree/master/ea13/ | done |
