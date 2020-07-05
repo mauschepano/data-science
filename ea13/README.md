@@ -42,5 +42,5 @@ spark-shell
 
 Note: Cleaned Text first and used [this one](./assets/shakespeare_cleaned.txt). 
 
-[See notebook](https://www.kaggle.com/carolineschneider/e11-decision-trees-exercise)
+[See notebook](https://github.com/mauschepano/data-science/blob/master/ea13/ea13-spark.ipynb)
 
