@@ -10,7 +10,33 @@
 
 ## Spark
 
-![spark-installation](./assets/spark.png)
+### Terminal
+
+```
+brew cask install java 
+```
+![install-java](./assets/step01.png)
+
+
+ ```
+brew install scala
+```
+
+![install-scala](./assets/step02.png)
+
+ ```
+brew install apache-spark
+```
+
+![install-spark](./assets/step03.png)
+
+ ```
+spark-shell
+```
+
+![spark-shell](./assets/step04.png)
+
+
 
 ## Shakespeare
 
