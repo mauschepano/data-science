@@ -40,7 +40,10 @@ spark-shell
 
 ## Shakespeare
 
-Note: Cleaned Text first and used [this one](./assets/shakespeare_cleaned.txt). 
+Result: 
+The twenty-fourth most common word is:	"as" (5733 times)
+
+Note: Cleaned Text first and used [this one](./assets/shakespeare.txt). 
 
 [See notebook](https://github.com/mauschepano/data-science/blob/master/ea13/ea13-spark.ipynb)
 
